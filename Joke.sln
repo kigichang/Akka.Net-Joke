@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joke1", "Joke1\Joke1.csproj", "{57F1B4A7-8939-41E2-A8F3-585FE2B2B8DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FBD9B555-406D-48CA-B917-79CA7DA05BB7}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57F1B4A7-8939-41E2-A8F3-585FE2B2B8DC}.Debug|x86.ActiveCfg = Debug|x86
+		{57F1B4A7-8939-41E2-A8F3-585FE2B2B8DC}.Debug|x86.Build.0 = Debug|x86
+		{57F1B4A7-8939-41E2-A8F3-585FE2B2B8DC}.Release|x86.ActiveCfg = Release|x86
+		{57F1B4A7-8939-41E2-A8F3-585FE2B2B8DC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
